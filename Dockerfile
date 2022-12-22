@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
-WORKDIR /skl/Raganork
+RUN git clone https://github.com/MR-NIMA-X/Railway-test /skl/RRailway-test
+WORKDIR /skl/Railway-test
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --ignore-engines
