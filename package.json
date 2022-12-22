@@ -77,5 +77,5 @@
     "translate-google-api": "^2.3.0",
     "google-translate-token" : "^1.0.0",
     "'safe-eval" : "0.4.1"
-  },
+  }
 }
